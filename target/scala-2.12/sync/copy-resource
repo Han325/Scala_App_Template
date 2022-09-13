@@ -1,1 +1,1 @@
-[[{},{}],{}]
+[[{"${BASE}/src/main/resources/cat.jpg":["${BASE}/target/scala-2.12/classes/cat.jpg"]},{"${BASE}/target/scala-2.12/classes/cat.jpg":["${BASE}/src/main/resources/cat.jpg"]}],{"${BASE}/src/main/resources/cat.jpg":{"file":"file:///C:/Users/yuhan/Documents/Active%20Code%20Repos/Scala_App_Template/src/main/resources/cat.jpg","lastModified":1662962049244}}]

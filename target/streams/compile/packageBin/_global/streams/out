@@ -1,7 +1,25 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\Active Code Repos\Scala\Scala_App_Template\target\scala-2.12\my-scala-app_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\scala_app_template_2.12-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cat.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\cat.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprogram$$anon$1$$anon$2$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\myprogram$$anon$1$$anon$2$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprogram$$anon$1$$anon$2$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\myprogram$$anon$1$$anon$2$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprogram$$anon$1$$anon$2$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\myprogram$$anon$1$$anon$2$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprogram$$anon$1$$anon$2$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\myprogram$$anon$1$$anon$2$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprogram$$anon$1$$anon$2$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\myprogram$$anon$1$$anon$2$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprogram$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\myprogram$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprogram$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\myprogram$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	myprogram$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  D:\Active Code Repos\Scala\Scala_App_Template\target\scala-2.12\classes\myprogram$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\myprogram$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myprogram$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\myprogram$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	myprogram.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  D:\Active Code Repos\Scala\Scala_App_Template\target\scala-2.12\classes\myprogram.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\target\scala-2.12\classes\myprogram.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

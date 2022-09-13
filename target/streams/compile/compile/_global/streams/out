@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\yuhan\Documents\Active Code Repos\Scala_App_Template\src\main\scala\myprogram.scala:27:22: not found: value infinite[0m
+[0m[[0m[31merror[0m] [0m[0m        cycleCount = infinite[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

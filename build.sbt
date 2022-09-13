@@ -1,2 +1,3 @@
-name :="my scala app"
-version :="1.0"
+libraryDependencies += "org.scalafx" %% "scalafx" % "8.0.192-R14"
+fork:=true
+
